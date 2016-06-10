@@ -1,0 +1,22 @@
+{
+  "name": "angular-firebase-fileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markeasterling/angular-firebase-fileupload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markeasterling/angular-firebase-fileupload/issues"
+  },
+  "homepage": "https://github.com/markeasterling/angular-firebase-fileupload#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
